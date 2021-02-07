@@ -23,14 +23,14 @@ Offline installers have a complete copy of macOS, while online installers are on
 
 Depending on which OS you're on, see your specific section on making the USB:
 
-* [macOS users](../installer-guide/mac-install.md)
+* [macOS users] (you use a mac / hackintosh to make the installer) (../installer-guide/mac-install.md)
   * Supports OS X 10.4 to current
   * Supports both legacy and UEFI installs
-* [Windows users](../installer-guide/winblows-install.md)
+* [Windows users] ( you use windows to make the installer) (../installer-guide/winblows-install.md)
   * Supports OS X 10.7 to current
   * Online installer only
   * Supports both legacy and UEFI installs
-* [Linux users(UEFI)](../installer-guide/linux-install.md)
+* [Linux users(UEFI)] (you use linux to make the installer) (../installer-guide/linux-install.md)
   * Supports OS X 10.7 to current
   * Online installer only
   * Meant for machines supporting UEFI Boot
