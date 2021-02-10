@@ -54,7 +54,7 @@ If you wish to clean up the file a bit, you can remove the `#WARNING` entries. T
 
 ## Selecting your platform
 
-Now comes the important part, selecting the configuration path. Each platform has their own unique quirks that you need to account for so knowing your hardware is super important. See below for what to follow:
+Now comes the important part, selecting the configuration path. Each platform has their own unique quirks that you need to account for so knowing your hardware is super important. See below for what to follow: (noob here, where, when, how ??))
 
 ### Intel Desktop
 
